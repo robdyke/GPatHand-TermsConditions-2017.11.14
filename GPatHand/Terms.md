@@ -1,21 +1,16 @@
-# GPatHand-TermsConditions-2017.11.14
-text snapshot of Babylon / GP at Hand terms and conditions page 2017.11.14
+## GP at Hand
 
-Babylon health logo
-Our service
- 
-What we treat
- 
-GP clinic locations
- 
-About us
- 
-Download the app
+[Terms and conditions for GP at hand (powered by babylon)](https://www.gpathand.nhs.uk/legal/terms)
+
+Visited: Mon 20 Nov 20:11:54 GMT 2017
+
+---
+
 Terms and conditions for GP at hand (powered by babylon)
 About
-The GP at hand partnership, whose registered address is 139 Lillie Road, London, SW6 7SX (GP at hand Practice), provides primary care services, commissioned by NHS England, to patients registered with its NHS GP practice in accordance its GMS contract.
+The GP at hand partnership, whose registered address is 139 Lillie Road, London, SW6 7SX (GP at hand Partnership), provides primary care services, commissioned by NHS England, to patients registered with its NHS GP practice in accordance its GMS contract.
 
-The GP at hand Practice offers a digital-first service to its patients called the “GP at hand Service” which is provided by Babylon Healthcare Services Limited, a limited company registered in England and Wales (company number 9229684), the registered office being 60 Sloane Avenue, London SW3 3DD. Any reference to “babylon”, “our”, “us” and “Company” are references to Babylon Healthcare Services Limited.
+The GP at hand Partnership offers a digital-first service to its patients called the “GP at hand Service” which is provided by Babylon Healthcare Services Limited, a limited company registered in England and Wales (company number 9229684), the registered office being 60 Sloane Avenue, London SW3 3DD. Any reference to “babylon”, “our”, “us” and “Company” are references to Babylon Healthcare Services Limited.
 
 Please read these terms carefully so that you understand them. These terms cover all the services we provide to you through our healthcare app (App) and our website https://www.gpathand.nhs.uk (Website). These terms include details on our complaints procedure, what we need from you to provide our services, and how we may use your personal information (as further detailed in our Privacy Policy).
 
@@ -32,10 +27,10 @@ We need certain information from you in order to provide services (see section D
 We can't take responsibility for laws outside the UK governing access to our services. Some of our services are specifically designed for use in the UK, and if you use them elsewhere you should check in your country or region that it is appropriate and lawful for you to do so (see sections F, I and J)
 The App is not suitable for managing medical emergencies (see section C2)
 The App is not suitable for unrestricted use by persons under 16 (see section G)
-The GP at hand Practice shall not be responsible for the artificial intelligence symptom checker which is a separate service provided by babylon via the App.
-We may amend these Terms from time to time as set out in section N. Please check to ensure you understand the terms that will apply at the time you enter into any transaction with the Company. These Terms were most recently updated on 3 November 2017.
+The GP at hand Partnership shall not be responsible for the artificial intelligence symptom checker which is a separate service provided by babylon via the App.
+We may amend these Terms from time to time as set out in section N. Please check to ensure you understand the terms that will apply at the time you enter into any transaction with the Company. These Terms were most recently updated on 16 November 2017.
 
-These terms include descriptions of each section, in bold text. These descriptions are to help you understand the terms but they are not part of the terms. 
+These terms include descriptions of each section, in bold text. These descriptions are to help you understand the terms but they are not part of the terms.
 A) ABOUT US
 
 About us and our services
@@ -63,7 +58,7 @@ our Monitoring service, which monitors your health (see section K);
 access to healthcare tests, medicines and kits (see sections H, I and J); and
 access to your healthcare records.
 Some medical conditions are not suitable for remote consultations, and you should always seek advice from a medical practitioner in person if you are unsure about whether you have been able to explain or communicate your medical needs through our services, or if you have any concerns about the advice you receive from us or if it is different from other advice you have received. All services are currently only provided in English.
-You should not use our services in an emergency, or if you have a condition that you know will require a physical examination.
+You should not use our digital services in an emergency, or if you have a condition that you know will require a physical examination.
 Except for our remote consultation services, our information services such as our Check a symptom and Ask a question services provide healthcare information and not medical advice. They tell you about health conditions, their possible causes and available treatments. They do not diagnose your own health condition or make recommendations for treatment for you. If you use our information services, we recommend you also seek the advice of a healthcare professional on your treatment, but whether you do so or not is up to you. You shouldn't take or stop taking any action (such as taking medicines) based on information from our services.
 We provide our services using reasonable skill and care from appropriately qualified, and experienced, staff and Practitioners. If you think that our services have not met this standard, please contact us as soon as possible. We will fix or re-perform, without charge, any services we agree do not meet this standard.
 Practitioners are GPs, registered nurses or accredited specialists registered with the General Medical Council or other appropriate professional register, who have committed to provide services in accordance with clinical best practice and applicable professional standards.
@@ -105,10 +100,11 @@ If you are accessing our services from outside the UK, you should check whether 
 G) CHILDREN AND OUR SERVICES
 Adults can use our services on behalf of children, but children shouldn't use our services themselves
 
-Our services are for use by adults over the age of 18.
+This section G relates to the digital service only. Those under 16 can register with the GP at hand Partnership in the usual way and obtain in-person consultations, for which the restrictions set out in section G do not apply.
 Young people between 16 and 18 may use our services and open their own account with us, if entitled to by their Partner membership or if an adult has agreed to use of their credit or debit card for the payment of Charges.
-Children under 16 may have an account opened for them by a parent or legal guardian, if it is linked to the parent or guardian's account and if the parent or guardian supervises the child's use of our services at all times.
 We may suspend services or terminate user accounts if we reasonably suspect that they are being used in breach of the restrictions in this Section G.
+
+
 H) PRODUCT SALES
 We provide services which enable your purchase of products from third party sellers working with us
 
@@ -127,7 +123,7 @@ If a patient requires a prescription for a controlled drugs (as defined by the m
 The App may enable you to request that we send your prescription to a pharmacy near to you, for you to collect during normal opening hours.
 If you choose to have your prescription sent to a pharmacy that is near to your location, we will make reasonable attempts to contact that pharmacy and have the prescription sent to the chosen pharmacy within an hour.
 We will use reasonable efforts to deliver the prescription to your device or to a nearby pharmacy promptly but we are not connected with and have no control over or responsibility for any individual pharmacy, their policies in relation to acceptance or otherwise of prescriptions, opening hours, cost or availability of medicines prescribed.  There are a number of factors which may impact on which pharmacy is chosen and there can be no guarantee that a pharmacy to which the prescription is delivered (if that option is chosen) will be the nearest pharmacy.
-Our partner dispensing chemists are not part of our organisation and, to the extent permitted by law, we disclaim responsibility for their acts and omissions. 
+Our partner dispensing chemists are not part of our organisation and, to the extent permitted by law, we disclaim responsibility for their acts and omissions.
 
 
 
@@ -138,7 +134,7 @@ How we provide medical testing services
 
 You should discuss any necessary tests with the GP which may be able to be offered through the NHS in the normal way.  
 The App can be used to order certain medical tests (Tests). These services are provided by a partner laboratory with which the Company has entered into arrangements for those services.
-Any test kits ordered through the App will be charged to you. Where charges are applicable, this will be made clear to you in advance of any such charges being incurred. 
+Any test kits ordered through the App will be charged to you. Where charges are applicable, this will be made clear to you in advance of any such charges being incurred.
 The partner laboratory is a separate entity from us and to the extent permitted by law we disclaim any liability for any acts or omissions of the partner laboratory.
 By ordering any Tests, you agree to comply with any instructions provided in relation to the Tests including in relation to the booking and administration of Tests, receipt and provision of Test materials and samples (including delivery by post or attendance in person at Test facilities) and payment.
 Subject to a range of factors including (without limitation) the nature of the relevant Test, your location and the availability of laboratories, the App may enable you to:
@@ -161,7 +157,7 @@ Tests to be administered at a drop in Test centre will be subject to the terms a
 If you elect to arrange an appointment to attend a Test centre for the Test to be undertaken, or to contact a Test centre to enable you to arrange to undertake a Test independently, then we shall use reasonable efforts to assist you but cannot guarantee the availability of the services from the Test centre and is not liable for the acts or omissions of the Test centre.
 The Company will use reasonable efforts to process any orders for Test Services within 2 business days and the time limits set out above start running from the end of that processing period.
 It may not be appropriate for some Tests to be self-administered, in which case they may not be available for delivery and must be conducted by a registered medical practitioner or nurse.
-You cannot order Tests anywhere outside the United Kingdom. 
+You cannot order Tests anywhere outside the United Kingdom.
 
 
 K) MONITORING SERVICES
@@ -180,15 +176,16 @@ Monitoring may display certain information relating to you derived from data sto
 L) OTHER LIMITS ON OUR SERVICE
 Other limitations and restrictions on the use of services
 
-We do not guarantee the availability of any particular Practitioner at any particular time. We will do what we can to arrange a consultation with a Practitioner as soon as possible, but do not guarantee to offer consultations within a particular time. Consultations generally are limited to 10 minute durations (with general practitioners and nurses) and 20 minutes (with specialist clinicians).
+We do not guarantee the availability of any particular Practitioner at any particular time. We will do what we can to arrange a consultation with a Practitioner as soon as possible, but do not guarantee to offer consultations within a particular time. Consultations generally are limited to 10 minute durations (with general practitioners and nurses).
 If you choose to submit details about your symptoms in the App, the information returned is on the basis of general healthcare information and not as personalised health advice for you. It is important to read the FAQs prior to using the App so that you can assess whether it is suitable to use the services based on your symptoms. Where the information returned recommends that you seek further medical advice, you acknowledge that you are responsible for seeking such advice from your GP or other medical professional.
 Practitioners may hold different clinical opinions on the same medical condition or symptoms and provided these opinions are reasonably held, the fact that two or more Practitioners give different opinions in the course of service provision does not necessarily indicate that our services are defective.
 We do not tolerate abuse or offensive behaviour towards Practitioners.
 Our services are designed to be accessed remotely by any of our customers, and are not designed for non-English speakers, for excessive use (having regard to the typical use pattern for our services in our reasonable opinion), time-wasting (such as unreasonable cancellation of appointments) or inappropriate use.
 We may need to ask you for certain personal information in order to provide our services. If you do not provide this information when requested, we may be unable to provide our services.
 The App has not been developed to meet your individual requirements, and that it is therefore your responsibility to ensure that the facilities and functions of the App meet your requirements.
-The App is not a medical device. While certain information controlled, generated by, displayed within or stored in the App (including, without limitation, by the ‘Monitoring feature') may be helpful in providing warning of certain medical or health conditions or circumstances, the App is not designed, nor may you use it as, a device to detect, diagnose, treat or monitor any medical or health condition or to establish the existence or absence of any medical or health condition.
-We may suspend your access to services or terminate your account with us if your use of services breaches any of these terms. 
+The symptom checking feature of the App is certified as a class 1 medical device with the MHRA.
+While certain information controlled, generated by, displayed within or stored in the App (including, without limitation, by the ‘Monitoring feature') may be helpful in providing warning of certain medical or health conditions or circumstances, the App is not designed, nor may you use it as, a device to detect, diagnose, treat or monitor any medical or health condition or to establish the existence or absence of any medical or health condition.
+We may suspend your access to services or terminate your account with us if your use of services breaches any of these terms.
 M) ACCESSING OUR SERVICES
 How to access our services, and limitations and other terms concerning access
 
@@ -211,14 +208,14 @@ communicate with Practitioners and our Partners, other medical practitioners, di
 process your payments to us;
 review and enhance the quality of the services, including monitoring compliance with clinical care standards;
 comply with our obligations to the regulators of our services and Practitioners, including the General Medical Council,  the Care Quality Commission, or as otherwise required by law or regulation;
-where you request it or have otherwise consented, provide it to your insurers who may contribute to the cost of the Products or Services you request to use;
 provide information to your other healthcare providers; or
 detect fraud.
 We only use your personal information in accordance with our Privacy Policy. For details, please see our Privacy Policy. Please take the time to read this, as it includes important terms that apply to you and are integrated into these terms.
 We will not provide your personal information to any other persons or use it for any other purpose except as set out in this term and in the Privacy Policy.
-If you elect to pre-authorise a treatment via an insurance company, you acknowledge and agree that it may be necessary to provide access to your contact, personal, medical, treatment, outcomes or other information, to your insurer to facilitate your request and the insurer’s quality control and clinical practice requirements. Alternatively, the insurer may contact you with a separate consent form, requesting that you allow them to request information from us relating to your claim.
 We may use anonymised data for purposes including (without limitation) research.
 We use a third party to process payments and refunds. We do not store your credit card details. Credit card details are stored securely with a third party in the eventuality of payment being required for future purchases or shortfalls in payments by insurers.
+
+
 P) LOCATION DATA AND USE OF THE APP
 How the App uses your data
 
@@ -230,17 +227,17 @@ We record consultations and this explains why
 Authorised members of our clinical team may utilise consultation recordings for audit and quality monitoring purposes.
 We may record consultations, activity and data inputted in the App for the purposes of providing our services, ensuring the quality of the services we provide and giving you access to recordings of your use of services.
 You may view consultation recordings from within the App, for so long as we retain a copy of the same on our secure servers, for your own private purposes (and may show them to any other medical practitioner who is supporting your care).
-Consultation recordings should not be published on social media or any other media sharing platforms. If you breach this term, we may suspend access to the services, terminate your account and may take legal action against you.
+Consultation recordings should not be published on social media or any other media sharing platforms. If you breach this term, we may suspend access to the services.
 R) LIMITATIONS ON SERVICE PROVISION        
 Sometimes, you will not be able to receive services – this section explains why
 
 We may not be able to provide our services if they are affected by events outside our control. We are not responsible to you if this happens, but if it does, we will notify you as soon as we can and take the steps that we reasonably can to minimise the interruption to our services.
-If there is the risk of a delay of more than 2 weeks to service performance, you may cancel your agreement with us (and we may do the same). 
+If there is the risk of a delay of more than 2 weeks to service performance, you may cancel your agreement with us (and we may do the same).
 S) PRICE AND PAYMENT
 How we calculate the price you pay us for our services, and how you pay us
 
 
-If you meet the NHS eligibility criteria, then the GP at hand Service will be provided at no charge to you so long as you remain registered with the GP at hand Practice.
+If you meet the NHS eligibility criteria, then the GP at hand Service will be provided at no charge to you so long as you remain registered with the GP at hand Partnership.
 Not all features of the App will be funded by the NHS. Where this is the case, this is explicitly stated in the App. Such features include but are not limited to the Tests offered via the App. You should discuss any necessary tests with the GP which may be able to be offered through the NHS in the normal way. However, if you decide to purchase Tests through the App or on the Website then the price of our these will be set out in the App or on the Website at the time of purchase. Our prices may change at any time, but price changes will not affect any services that you have already ordered.
 T) OUR LIABILITY TO YOU
 Because these terms are part of a binding legal agreement, we must compensate you for loss you suffer if our service doesn't comply with these terms. However, we don't compensate you for all losses. This section is important as it explains those things.
@@ -252,12 +249,13 @@ We are responsible for compensating you for personal injury or death caused by o
 If we provide digital content that is defective and damages a device or other digital content belonging to you, and we have not used our reasonable skill and care, we will compensate you or repair the device or content.
 We will not be liable for any loss or damage resulting from defective digital content where you have failed to follow our use instructions or advice in these terms.
 We supply the services for private personal use and we are not responsible for any losses you suffer arising out of the use of the services which are business losses.
-We design our services, the App and the Website to keep your personal health data secure and it is important that you follow the use instructions and advice in these terms in order to keep your data safe. We are not liable for loss or unauthorised access to your data where it results from you not following these use instructions and advice. 
+We design our services, the App and the Website to keep your personal health data secure and it is important that you follow the use instructions and advice in these terms in order to keep your data safe. We are not liable for loss or unauthorised access to your data where it results from you not following these use instructions and advice.
 U) OUR BRAND AND CREATIVE MATERIAL
 The basis on which you use our App, Website and services
 
 
-We own copyright and other intellectual property rights in the App, Website, our services and their content, including recordings of consultations (babylon IPR).
+We own copyright and other intellectual property rights in the App, Website, our services and their content (babylon IPR).
+We may access the recordings of consultations for the purposes set out in section Q to, amongst other things, ensure and continuously improve the quality of our service.  
 You are permitted to use babylon IPR in order to receive our services, store it on your device and print copies of it for your personal use. You may communicate material containing babylon IPR to your GP or another medical practitioner. You are not permitted to copy, distribute or make any business use of babylon IPR. You must not remove or obscure any notices regarding babylon IPR.
 The GP at hand and/or babylon mark, logo, combined mark and logo and other marks indicated in our App are our trademarks of the Company or its affiliates in the United Kingdom and other countries. Other graphics, logos, page headers, button icons, scripts, and service names are trademarks of other businesses or our affiliates or Partners.
 V) LICENSE AND APP USE
@@ -289,20 +287,6 @@ These Terms are governed by English law. You can make a claim relating to our se
 Y) OTHER IMPORTANT TERMS
 Other provisions explaining how we may exercise our rights under these terms
 
-We may transfer its rights and obligations under these terms to another organisation, but we will always notify you in writing if this happens, and this will not affect your rights under these terms.
+If there is any proposed transfer of our rights and obligations under these terms, we will always notify you in writing, and this will not affect your rights under these terms. In this event, your data could only be used for the purposes for which you have consented, you would be notified of the change in data controller (if any), and you would have the right to withdraw your consent to your data being processed.
 As our services are personalised, you may only transfer your rights or your obligations under these terms to another person if we agree.
 The agreement for our services is between you and us, and no-one else. Only you can enforce that agreement (although a parent or guardian may enforce their agreement on behalf of a person under 18 whose use of our services is allowed under section G).
-Learn more
-FAQs
-Terms and conditions
-Privacy policy
-Cookies
-Terms of use
-Sitemap
-Get in touch
-gpathand@nhs.net
-0330 8082217
-Follow us
-Facebook Twitter Instagram
-© GP at hand 2017 — All rights reserved. 139 Lillie Road, London
-Select an element on the page.
